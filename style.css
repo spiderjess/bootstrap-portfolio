@@ -1,0 +1,9 @@
+.box {
+    margin: 10px !important;
+    padding: 15px !important;
+    width: auto;
+}
+#title {
+    margin: 5px;
+    padding: 5px;
+}
